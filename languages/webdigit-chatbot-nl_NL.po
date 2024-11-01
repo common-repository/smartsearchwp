@@ -1,0 +1,1230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: webdigit-chatbot\n"
+"POT-Creation-Date: 2024-06-11 09:04+0200\n"
+"PO-Revision-Date: 2024-06-11 09:04+0200\n"
+"Last-Translator: \n"
+"Language-Team: www.webdigit.be\n"
+"Language: webdigit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+
+#: class-wdgpt-chatbot-initializer.php:229
+msgid "NoAnswerFound"
+msgstr "Sorry, ik heb geen antwoord op die vraag."
+
+#: class-wdgpt-chatbot-initializer.php:230
+msgid "Sorry, I didnt understand your question. Can you rephrase it ?"
+msgstr "Sorry, ik heb uw vraag niet begrepen. Kunt u het anders formuleren?"
+
+#: class-wdgpt-chatbot-initializer.php:231
+msgid "Sorry, your question isnt clear enough. Can you rephrase it ?"
+msgstr ""
+"Sorry, uw vraag is niet duidelijk genoeg. Kunt u het anders formuleren?"
+
+#: class-wdgpt-chatbot-initializer.php:232
+msgid "You"
+msgstr "U"
+
+#: class-wdgpt-chatbot-initializer.php:233
+#: class-wdgpt-chatbot-initializer.php:283
+#: includes/summaries/class-wdgpt-summaries-table.php:65
+msgid "Regenerate Embeddings"
+msgstr "AI herscholen"
+
+#: class-wdgpt-chatbot-initializer.php:234
+#: class-wdgpt-chatbot-initializer.php:284
+#: includes/addons/wdgpt-addons-catalog-settings.php:207
+#: includes/summaries/class-wdgpt-summaries-table.php:85
+msgid "Activate"
+msgstr "Activeer"
+
+#: class-wdgpt-chatbot-initializer.php:235
+#: class-wdgpt-chatbot-initializer.php:285
+#: includes/addons/wdgpt-addons-catalog-settings.php:205
+#: includes/summaries/class-wdgpt-summaries-table.php:81
+msgid "Deactivate"
+msgstr "Deactiveer"
+
+#: class-wdgpt-chatbot-initializer.php:236
+msgid "Error initializing"
+msgstr "Fout bij initialiseren"
+
+#: class-wdgpt-chatbot-initializer.php:237
+#: includes/config/wdgpt-config-general-settings.php:500
+#: includes/wdgpt-client.php:141
+msgid "Bonjour, je suis SmartSearchWP, comment puis-je vous aider ?"
+msgstr "Hallo, ik ben SmartSearchWP, hoe kan ik u helpen?"
+
+#: class-wdgpt-chatbot-initializer.php:286 includes/wdgpt-config.php:29
+msgid "Please enter your api key!"
+msgstr "Voer alstublieft uw API-sleutel in!"
+
+#: class-wdgpt-chatbot-initializer.php:287
+msgid ""
+"Your api key is invalid! If you think this is a mistake, please check your "
+"account on the OpenAI platform. This can also happen if the OpenAI API is "
+"having issues, or is down."
+msgstr ""
+"Uw api-sleutel is ongeldig! Als je denkt dat dit een fout is, controleer dan "
+"je account op het OpenAI platform. Dit kan ook gebeuren als de OpenAI API "
+"problemen heeft of down is."
+
+#: class-wdgpt-chatbot-initializer.php:288
+msgid "Your api key is valid! Don't forget to save your changes."
+msgstr "Uw api-sleutel is geldig! Vergeet niet uw wijzigingen op te slaan."
+
+#: class-wdgpt-chatbot-initializer.php:289
+#: includes/config/wdgpt-config-general-settings.php:250
+msgid ""
+"The previously selected model is not available anymore with your current api "
+"key, which means that the chatbot will not work. Please select a new model. "
+"Your previous model was: "
+msgstr ""
+"Het eerder geselecteerde model is niet meer beschikbaar met uw huidige API-"
+"sleutel, wat betekent dat de chatbot niet zal werken. Selecteer alstublieft "
+"een nieuw model. Uw vorige model was: "
+
+#: class-wdgpt-chatbot-initializer.php:290
+#: includes/addons/wdgpt-addons-license-settings.php:151
+msgid "You currently have a free license key."
+msgstr "U hebt momenteel een gratis licentiesleutel."
+
+#: class-wdgpt-chatbot-initializer.php:291
+msgid ""
+"There was an issue retrieving your free license key. Please try again later."
+msgstr ""
+"Er is een probleem opgetreden bij het ophalen van uw gratis licentiesleutel. "
+"Probeer het later nog eens."
+
+#: class-wdgpt-chatbot-initializer.php:292
+#: includes/addons/wdgpt-addons-license-settings.php:63
+msgid ""
+"Your SmartSearchWP Premium license is valid, and has been registered with "
+"the current site. You can now use the premium features."
+msgstr ""
+"Uw SmartSearchWP Premium-licentie is geldig en is geregistreerd bij de "
+"huidige site. U kunt nu de premium functies gebruiken."
+
+#: class-wdgpt-chatbot-initializer.php:293
+#: includes/addons/wdgpt-addons-license-settings.php:58
+msgid ""
+"Your SmartSearchWP Premium license was not found. Please check your license "
+"key."
+msgstr ""
+"Uw SmartSearchWP Premium-licentie is niet gevonden. Controleer uw "
+"licentiesleutel."
+
+#: class-wdgpt-chatbot-initializer.php:294
+msgid ""
+"Your SmartSearchWP Premium license was already registered with the current "
+"site. You can use the premium features."
+msgstr ""
+"Uw SmartSearchWP Premium-licentie was al geregistreerd voor de huidige site. "
+"U kunt de premium functies gebruiken."
+
+#: class-wdgpt-chatbot-initializer.php:295
+msgid ""
+"Your SmartSearchWP Premium license was already registered with another site. "
+"Please unlink it from the other site, or contact support if you think this "
+"should not happen."
+msgstr ""
+"Uw SmartSearchWP Premium-licentie is al geregistreerd bij een andere site. "
+"Koppel de licentie los van de andere site of neem contact op met support als "
+"je denkt dat dit niet zou moeten gebeuren."
+
+#: class-wdgpt-chatbot-initializer.php:296
+msgid ""
+"There was an issue registering your SmartSearchWP Premium license with the "
+"current site. Please try again later, or contact support if the problem "
+"persists."
+msgstr ""
+"Er is een probleem opgetreden bij het registreren van uw SmartSearchWP "
+"Premium-licentie op de huidige site. Probeer het later nog eens of neem "
+"contact op met support als het probleem zich blijft voordoen."
+
+#: class-wdgpt-chatbot-initializer.php:297
+msgid ""
+"There was an issue retrieving the expiry date of your SmartSearchWP Premium "
+"license. Please try again later, or contact support if the problem persists."
+msgstr ""
+"Er is een probleem opgetreden bij het ophalen van de vervaldatum van uw "
+"SmartSearchWP Premium-licentie. Probeer het later nog eens of neem contact "
+"op met support als het probleem zich blijft voordoen."
+
+#: class-wdgpt-chatbot-initializer.php:298
+msgid ""
+"Your SmartSearchWP Premium license has expired. Please renew it to continue "
+"using the premium features, then verify it again."
+msgstr ""
+"Uw SmartSearchWP Premium-licentie is verlopen. Verleng de licentie om de "
+"premium functies te kunnen blijven gebruiken en controleer de licentie "
+"opnieuw."
+
+#: class-wdgpt-chatbot-initializer.php:348
+#: class-wdgpt-chatbot-initializer.php:349
+msgid "Settings"
+msgstr "Instellingen"
+
+#: class-wdgpt-chatbot-initializer.php:356
+#: class-wdgpt-chatbot-initializer.php:357
+msgid "Summary_title"
+msgstr "Samenvattingen"
+
+#: class-wdgpt-chatbot-initializer.php:364
+#: class-wdgpt-chatbot-initializer.php:365
+#: includes/logs/wdgpt-config-logs.php:26
+msgid "Chat Logs"
+msgstr "Logboeken chatten"
+
+#: class-wdgpt-chatbot-initializer.php:373
+#: class-wdgpt-chatbot-initializer.php:374
+#: includes/logs/wdgpt-config-error-logs.php:26
+msgid "Error Logs"
+msgstr "Foutlogboeken"
+
+#: class-wdgpt-chatbot-initializer.php:382
+#: class-wdgpt-chatbot-initializer.php:383
+msgid "Addons"
+msgstr "Addons"
+
+#: includes/addons/class-wdgpt-addons-manager.php:81
+#, php-format
+msgid "This addon will require at least version %s of the plugin to function."
+msgstr "Deze addon heeft minstens versie %s van de plugin nodig om te werken."
+
+#: includes/addons/class-wdgpt-license-manager.php:74
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/addons/class-wdgpt-license-manager.php:76
+msgid "Free"
+msgstr "Gratis"
+
+#: includes/addons/class-wdgpt-license-manager.php:169
+msgid ""
+"Your premium license has expired. Please renew your license to continue "
+"having access to new addons."
+msgstr ""
+"Uw premium licentie is verlopen. Verleng uw licentie om toegang te houden "
+"tot nieuwe addons."
+
+#: includes/addons/class-wdgpt-license-manager.php:173
+msgid ""
+"Your premium license has expired, but your free license is active. You can "
+"access free addons."
+msgstr ""
+"Uw premium licentie is verlopen, maar uw gratis licentie is actief. U hebt "
+"toegang tot gratis addons."
+
+#: includes/addons/class-wdgpt-license-manager.php:177
+msgid ""
+"Your premium license is inactive. Please activate your license to continue "
+"having access to new addons."
+msgstr ""
+"Uw premium licentie is inactief. Activeer uw licentie om toegang te houden "
+"tot nieuwe addons."
+
+#: includes/addons/class-wdgpt-license-manager.php:181
+#: includes/addons/class-wdgpt-license-manager.php:189
+msgid "Your free license is active. You can accesss free addons."
+msgstr "Uw gratis licentie is actief. U hebt toegang tot gratis addons."
+
+#: includes/addons/class-wdgpt-license-manager.php:185
+msgid ""
+"Your premium license is active. You can download all the available addons."
+msgstr ""
+"Uw premium licentie is actief. U kunt alle beschikbare addons downloaden."
+
+#: includes/addons/class-wdgpt-license-manager.php:193
+msgid ""
+"Your free license is inactive. Please activate your license to continue "
+"having access to new addons.."
+msgstr ""
+"Uw gratis licentie is inactief. Activeer uw licentie om toegang te houden "
+"tot nieuwe addons."
+
+#: includes/addons/class-wdgpt-license-manager.php:197
+msgid ""
+"Your license is inactive. Please activate your license to continue having "
+"access to new addons."
+msgstr ""
+"Uw licentie is inactief. Activeer uw licentie om toegang te houden tot "
+"nieuwe addons."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:77
+msgid "An error occured while retrieving the addons."
+msgstr "Er is een fout opgetreden tijdens het ophalen van de addons."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:104
+msgid "An error occured while installing the addon."
+msgstr "Er is een fout opgetreden tijdens het installeren van de addon."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:104
+msgid "The addon has been installed and activated successfully."
+msgstr "De addon is succesvol geïnstalleerd en geactiveerd."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:105
+msgid "An error occured while uninstalling the addon."
+msgstr "An error occured while uninstalling the addon."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:105
+msgid "The addon has been uninstalled successfully."
+msgstr "De addon is succesvol verwijderd."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:106
+msgid "An error occured while activating the addon."
+msgstr "Er is een fout opgetreden tijdens het activeren van de addon."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:106
+msgid "The addon has been activated successfully."
+msgstr "De addon is succesvol geactiveerd."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:107
+msgid "An error occured while deactivating the addon."
+msgstr "Er is een fout opgetreden tijdens het deactiveren van de addon."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:107
+msgid "The addon has been deactivated successfully."
+msgstr "De addon is succesvol gedeactiveerd."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:108
+msgid "An error occured while updating the addon."
+msgstr "Er is een fout opgetreden tijdens het bijwerken van de addon."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:108
+msgid "The addon has been updated successfully."
+msgstr "De addon is succesvol bijgewerkt."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:113
+msgid ""
+"The addons catalog is a collection of premium and free addons that can be "
+"installed to extend the functionality of the plugin."
+msgstr ""
+"De addons catalogus is een verzameling van premium en gratis addons die "
+"geïnstalleerd kunnen worden om de functionaliteit van de plugin uit te "
+"breiden."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:114
+msgid ""
+"Free addons can be installed with a free license, while premium addons "
+"require a  premium license to be installed."
+msgstr ""
+"Gratis addons kunnen geïnstalleerd worden met een gratis licentie, terwijl "
+"premium addons een premium licentie vereisen om geïnstalleerd te worden."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:115
+msgid ""
+"A premium license is required for premium addons, and also gives access to "
+"free addons."
+msgstr ""
+"Een premium licentie is vereist voor premium addons en geeft ook toegang tot "
+"gratis addons."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:116
+msgid ""
+"Note: you can safely install, uninstall, activate or deactivate addons from "
+"this page."
+msgstr ""
+"Opmerking: je kunt addons veilig installeren, verwijderen, activeren of "
+"deactiveren vanaf deze pagina."
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:195
+#: includes/addons/wdgpt-addons-catalog-settings.php:200
+msgid "Update"
+msgstr "Bijwerken"
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:197
+#: includes/addons/wdgpt-addons-catalog-settings.php:214
+msgid "Get Free License"
+msgstr "Gratis licentie"
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:202
+#: includes/addons/wdgpt-addons-catalog-settings.php:219
+msgid "Buy"
+msgstr "Koop"
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:208
+msgid "Uninstall"
+msgstr "Verwijder"
+
+#: includes/addons/wdgpt-addons-catalog-settings.php:212
+#: includes/addons/wdgpt-addons-catalog-settings.php:217
+msgid "Install"
+msgstr "Installeer"
+
+#: includes/addons/wdgpt-addons-license-settings.php:24
+msgid "For anything related to the SmartSearchWP Premium version, please visit"
+msgstr "Ga voor alles met betrekking tot de SmartSearchWP Premium-versie naar"
+
+#: includes/addons/wdgpt-addons-license-settings.php:31
+msgid "SmartSearchWP"
+msgstr "SmartSearchWP"
+
+#: includes/addons/wdgpt-addons-license-settings.php:38
+msgid "and get your license key."
+msgstr "en ontvang uw licentiesleutel."
+
+#: includes/addons/wdgpt-addons-license-settings.php:46
+msgid ""
+"Please note that if your license key is no longer valid or you modify the "
+"site linked to it, this view might not update correctly until you reverify "
+"your license. You can do this by clicking the \"Verify your premium "
+"license\" button below."
+msgstr ""
+"Houd er rekening mee dat als uw licentiesleutel niet langer geldig is of als "
+"u de site wijzigt die eraan is gekoppeld, deze weergave mogelijk niet "
+"correct wordt bijgewerkt totdat u uw licentie opnieuw instelt. U kunt dit "
+"doen door te klikken op de knop \"Verifieer uw premium licentie\" hieronder."
+
+#: includes/addons/wdgpt-addons-license-settings.php:66
+msgid ""
+"Your SmartSearchWP Premium license has expired. Please renew it to continue "
+"using the premium features, then verify it again.."
+msgstr ""
+"Uw SmartSearchWP Premium-licentie is verlopen. Verleng deze om gebruik te "
+"kunnen blijven maken van de premium functies en controleer deze opnieuw..."
+
+#: includes/addons/wdgpt-addons-license-settings.php:81
+msgid "Premium License:"
+msgstr "Premium licentie:"
+
+#: includes/addons/wdgpt-addons-license-settings.php:92
+msgid ""
+"Enter your SmartSearchWP Premium license key to enable the premium features. "
+"You can find your license key in your SmartSearchWP account, after "
+"purchasing the premium version of the plugin."
+msgstr ""
+"Voer uw SmartSearchWP Premium licentiesleutel in om de premium functies in "
+"te schakelen. U kunt uw licentiesleutel vinden in uw SmartSearchWP account, "
+"na aankoop van de premium versie van de plugin."
+
+#: includes/addons/wdgpt-addons-license-settings.php:104
+msgid "Verify your premium license"
+msgstr "Controleer uw premium licentie"
+
+#: includes/addons/wdgpt-addons-license-settings.php:124
+msgid "Free Addons"
+msgstr "Gratis addons"
+
+#: includes/addons/wdgpt-addons-license-settings.php:132
+msgid ""
+"You'll get access to our free addons by entering your email address below. "
+"This will generate a free license key for you."
+msgstr ""
+"U krijgt toegang tot onze gratis addons door hieronder uw e-mailadres in te "
+"voeren. Hiermee wordt een gratis licentiesleutel voor je gegenereerd."
+
+#: includes/addons/wdgpt-addons-license-settings.php:147
+msgid ""
+"You currently have no free license key. Get your free license key by "
+"entering your email address below."
+msgstr ""
+"U hebt momenteel geen gratis licentiesleutel. Ontvang uw gratis licentiecode "
+"door hieronder uw e-mailadres in te voeren."
+
+#: includes/addons/wdgpt-addons-license-settings.php:166
+msgid "Mail:"
+msgstr "Mail:"
+
+#: includes/addons/wdgpt-addons-license-settings.php:176
+#: includes/config/wdgpt-config-reporting-settings.php:130
+msgid "The email is not valid. Please enter a valid email."
+msgstr "Het e-mailadres is ongeldig. Voer een geldig e-mailadres in."
+
+#: includes/addons/wdgpt-addons-license-settings.php:184
+msgid "Enter your email address to get access to our free addons."
+msgstr "Voer uw e-mailadres in om toegang te krijgen tot onze gratis addons."
+
+#: includes/addons/wdgpt-addons-license-settings.php:195
+msgid "Receive updates:"
+msgstr "Updates ontvangen:"
+
+#: includes/addons/wdgpt-addons-license-settings.php:209
+msgid "Receive updates about our free addons and new features."
+msgstr "Ontvang updates over onze gratis addons en nieuwe functies."
+
+#: includes/addons/wdgpt-addons-license-settings.php:221
+msgid "Get your free license"
+msgstr "Ontvang uw gratis licentie"
+
+#: includes/addons/wdgpt-addons.php:23
+msgid "Addons manager"
+msgstr "Addons manager"
+
+#: includes/addons/wdgpt-addons.php:24
+msgid "License settings"
+msgstr "Licentie-instellingen"
+
+#: includes/class-wdgpt-database-updater.php:53
+msgid ""
+"This update will empty the chat logs table, because of a change in the table "
+"structure."
+msgstr ""
+"Met deze update wordt de tabel met chatlogs leeggemaakt, vanwege een "
+"wijziging in de tabelstructuur."
+
+#: includes/config/wdgpt-config-database-update-settings.php:23
+msgid ""
+"You are already using the most recent version of the database, you can now "
+"use the plugin without any restrictions."
+msgstr ""
+"U gebruikt al de meest recente versie van de database, u kunt de plugin nu "
+"zonder beperkingen gebruiken."
+
+#: includes/config/wdgpt-config-database-update-settings.php:31
+msgid ""
+"After the latest update, the database needs to be updated for the plugin to "
+"work properly. You can update the database by interacting with the button "
+"below."
+msgstr ""
+"Na de laatste update moet de database bijgewerkt worden om de plugin goed te "
+"laten werken. U kunt de database bijwerken via de knop hieronder."
+
+#: includes/config/wdgpt-config-database-update-settings.php:37
+msgid "Please make sure to backup your database before updating it."
+msgstr ""
+"Zorg ervoor dat je een back-up maakt van uw database voordat je deze "
+"bijwerkt."
+
+#: includes/config/wdgpt-config-database-update-settings.php:40
+msgid "Here are the details of the database update:"
+msgstr "Hier zijn de details van de database-update:"
+
+#: includes/config/wdgpt-config-database-update-settings.php:43
+msgid "Database version:"
+msgstr "Databaseversie:"
+
+#: includes/config/wdgpt-config-database-update-settings.php:63
+msgid "Update database"
+msgstr "Database bijwerken"
+
+#: includes/config/wdgpt-config-general-settings.php:42
+#: includes/config/wdgpt-config-reporting-settings.php:43
+msgid "Settings saved successfully !"
+msgstr "Instellingen succesvol opgeslagen!"
+
+#: includes/config/wdgpt-config-general-settings.php:57
+#: includes/config/wdgpt-config-reporting-settings.php:58
+msgid ""
+"The plugin has been disabled because the database is not up to date. Please "
+"update the database to enable the plugin."
+msgstr ""
+"De plugin is uitgeschakeld omdat de database niet up-to-date is. Werk de "
+"database bij om de plugin in te schakelen."
+
+#: includes/config/wdgpt-config-general-settings.php:66
+#: includes/config/wdgpt-config-reporting-settings.php:67 wdgpt.php:69
+msgid "Update the database"
+msgstr "De database bijwerken"
+
+#: includes/config/wdgpt-config-general-settings.php:130
+msgid ""
+"Your server configuration does not allow the plugin to work properly. Please "
+"enable the allow_url_fopen option in your php.ini file."
+msgstr ""
+"Uw serverconfiguratie staat niet toe dat de plugin goed werkt. Schakel de "
+"optie allow_url_fopen in uw php.ini bestand in."
+
+#: includes/config/wdgpt-config-general-settings.php:145
+msgid "Enable Chatbot:"
+msgstr "Activeren van de chatbot:"
+
+#: includes/config/wdgpt-config-general-settings.php:161
+msgid "OpenAi API Key:"
+msgstr "OpenAi API sleutel:"
+
+#: includes/config/wdgpt-config-general-settings.php:171
+msgid "Validate Key"
+msgstr "Valideer sleutel"
+
+#: includes/config/wdgpt-config-general-settings.php:185
+msgid "You can get your api key"
+msgstr "Voer alstublieft uw API-sleutel in!U kunt uw API-sleutel verkrijgen"
+
+#: includes/config/wdgpt-config-general-settings.php:192
+msgid "here"
+msgstr "hier"
+
+#: includes/config/wdgpt-config-general-settings.php:204
+msgid "ChatGPT Model:"
+msgstr "Model ChatGPT:"
+
+#: includes/config/wdgpt-config-general-settings.php:261
+msgid ""
+"If you want to use gpt-4o, you must subscribe to chatgpt plus. The model "
+"gpt4-o is a better version of gpt-4, with faster speed and lower cost."
+msgstr ""
+"Als u gpt-4o wilt gebruiken, moet u zich abonneren op chatgpt plus. Het "
+"model gpt4-o is een betere versie van gpt-4, met hogere snelheid en lagere "
+"kosten."
+
+#: includes/config/wdgpt-config-general-settings.php:272
+msgid "Chatbot Name:"
+msgstr "Chatbot naam:"
+
+#: includes/config/wdgpt-config-general-settings.php:283
+msgid "Chatbot Logo:"
+msgstr "Chatbot-logo:"
+
+#: includes/config/wdgpt-config-general-settings.php:319
+msgid "Temperature:"
+msgstr "Temperatuur:"
+
+#: includes/config/wdgpt-config-general-settings.php:339
+msgid ""
+"The temperature parameter influences the level of randomness in the output "
+"generated by the model. When the temperature is lowered, the model becomes "
+"more confident but also tends to repeat similar responses. On the other "
+"hand, raising the temperature value increases its creativity but also makes "
+"its outputs more unpredictable."
+msgstr ""
+"De temperatuurparameter beïnvloedt de mate van willekeur in de uitvoer die "
+"door het model wordt gegenereerd. Als de temperatuur wordt verlaagd, wordt "
+"het model zelfverzekerder, maar heeft het ook de neiging om gelijksoortige "
+"reacties te herhalen. Aan de andere kant verhoogt het verhogen van de "
+"temperatuurwaarde de creativiteit, maar maakt het ook de uitvoer "
+"onvoorspelbaarder."
+
+#: includes/config/wdgpt-config-general-settings.php:350
+msgid "Max used contexts:"
+msgstr "Max. gebruikte contexten:"
+
+#: includes/config/wdgpt-config-general-settings.php:374
+msgid ""
+"The maximum number of contexts that the model can use to generate an answer. "
+"The higher this parameter is, the more information the model can use to "
+"generate an answer. However, increasing this value also increases the risk "
+"of generating irrelevant answers. The default value is 3, which is a good "
+"balance between relevance and creativity. If you want to prioritize "
+"relevance, you can lower this value to 1. If you want to prioritize "
+"creativity, you can increase this value to 10."
+msgstr ""
+"Het maximum aantal contexten dat het model kan gebruiken om een antwoord te "
+"genereren. Hoe hoger deze parameter, hoe meer informatie het model kan "
+"gebruiken om een antwoord te genereren. Het verhogen van deze waarde "
+"verhoogt echter ook het risico op het genereren van irrelevante antwoorden. "
+"De standaardwaarde is 3, wat een goede balans is tussen relevantie en "
+"creativiteit. Als u prioriteit wilt geven aan relevantie, kunt u deze waarde "
+"verlagen tot 1. Als u prioriteit wilt geven aan creativiteit, kunt u deze "
+"waarde verhogen tot 10."
+
+#: includes/config/wdgpt-config-general-settings.php:385
+msgid "Similarity threshold:"
+msgstr "Gelijksoortigheidsdrempel:"
+
+#: includes/config/wdgpt-config-general-settings.php:410
+#, no-php-format
+msgid ""
+"This determines the maximum difference allowed between the most likely "
+"context to be used, and other contexts. Here is an example: if the "
+"similarity threshold is set to 5, the model will only consider contexts that "
+"are at most 5% less likely than the most likely context. This parameter is "
+"useful to prevent the model from generating irrelevant answers when the most "
+"likely context is not relevant. The default value is 5, which is a good "
+"balance between relevance and creativity. If you want to prioritize "
+"relevance, you can lower this value to 1. If you want to prioritize "
+"creativity, you can increase this value to 10."
+msgstr ""
+"Dit bepaalt het maximale verschil dat is toegestaan tussen de meest "
+"waarschijnlijke context die wordt gebruikt en andere contexten. Hier is een "
+"voorbeeld: als de gelijkaardigheidsdrempel is ingesteld op 5, zal het model "
+"alleen contexten in overweging nemen die maximaal 5% minder waarschijnlijk "
+"zijn dan de meest waarschijnlijke context. Deze parameter is nuttig om te "
+"voorkomen dat het model irrelevante antwoorden genereert wanneer de meest "
+"waarschijnlijke context niet relevant is. De standaardwaarde is 5, wat een "
+"goede balans is tussen relevantie en creativiteit. Als u prioriteit wilt "
+"geven aan relevantie, kunt u deze waarde verlagen tot 1. Als u prioriteit "
+"wilt geven aan creativiteit, kunt u deze waarde verhogen tot 10."
+
+#: includes/config/wdgpt-config-general-settings.php:421
+msgid "Precision threshold:"
+msgstr "Nauwkeurigheidsdrempel:"
+
+#: includes/config/wdgpt-config-general-settings.php:446
+msgid ""
+"The minimum precision required for a context to be considered eligible "
+"determines its relevance to the answer. By increasing this value, the system "
+"prioritizes more precise and relevant contexts, potentially leading to "
+"better results. However, there is a trade-off, as a higher threshold also "
+"increases the risk of not generating an answer if the context or the prompt "
+"are not sufficiently relevant."
+msgstr ""
+"De minimale nauwkeurigheid die nodig is om een context in aanmerking te "
+"laten komen, bepaalt de relevantie ervan voor het antwoord.Door deze waarde "
+"te verhogen, geeft het systeem de voorkeur aan preciezere en relevantere "
+"contexten, wat tot betere resultaten kan leiden.Er is echter een "
+"wisselwerking, omdat een hogere drempel ook het risico vergroot dat er geen "
+"antwoord wordt gegenereerd als de context of de prompt niet relevant genoeg "
+"zijn."
+
+#: includes/config/wdgpt-config-general-settings.php:457
+msgid "Enable Chatbot Bubble:"
+msgstr "Activeer de phylactery :"
+
+#: includes/config/wdgpt-config-general-settings.php:473
+msgid "Chatbot Bubble Typing Text:"
+msgstr "Chatbot Bubbel die tekst typt:"
+
+#: includes/config/wdgpt-config-general-settings.php:479
+#: includes/wdgpt-client.php:121
+msgid "Hello, may I help you?"
+msgstr "Hallo, kan ik u helpen?"
+
+#: includes/config/wdgpt-config-general-settings.php:483
+msgid ""
+"This is the text that will be displayed in the chat bubble above the circle "
+"when loading a page. If you don't set anything in a certain language, the "
+"default translation will be used."
+msgstr ""
+"Dit is de tekst die wordt weergegeven in de chatballon boven de cirkel bij "
+"het laden van een pagina. Als je niets instelt in een bepaalde taal, wordt "
+"de standaardvertaling gebruikt."
+
+#: includes/config/wdgpt-config-general-settings.php:494
+msgid "Greetings Message:"
+msgstr "Begroetingsbericht:"
+
+#: includes/config/wdgpt-config-general-settings.php:504
+msgid ""
+"This is the message that will be displayed when the chatbot will be greeting "
+"the user or if the user restarts the conversation. If you don't set anything "
+"in a certain language, the default translation will be used."
+msgstr ""
+"Dit is het bericht dat wordt weergegeven als de chatbot de gebruiker begroet "
+"of als de gebruiker het gesprek herstart. Als je niets instelt in een "
+"bepaalde taal, wordt de standaardvertaling gebruikt."
+
+#: includes/config/wdgpt-config-general-settings.php:515
+#: includes/config/wdgpt-config-reporting-settings.php:255
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: includes/config/wdgpt-config-reporting-settings.php:86
+msgid ""
+"This section is dedicated to the reporting settings. Here you can set the "
+"mails to send the reports to and the schedule of sending the reports."
+msgstr ""
+"Dit gedeelte is gewijd aan de rapportage-instellingen. Hier kun u instellen "
+"naar welke mails de rapporten gestuurd moeten worden en volgens welk schema."
+
+#: includes/config/wdgpt-config-reporting-settings.php:94
+msgid ""
+"Please note that, if there has not been any discussion with the chatbot in "
+"the previous day or week, no report will be sent. The reports are sent only "
+"if there has been a discussion with the chatbot."
+msgstr ""
+"Houd er rekening mee dat, als er geen discussie is geweest met de chatbot in "
+"de vorige dag of week, er geen rapport wordt verzonden. De rapporten worden "
+"alleen verzonden als er een discussie is geweest met de chatbot."
+
+#: includes/config/wdgpt-config-reporting-settings.php:104
+msgid "Enable reporting:"
+msgstr "Rapportage inschakelen:"
+
+#: includes/config/wdgpt-config-reporting-settings.php:120
+msgid "Mail from:"
+msgstr "Mail van:"
+
+#: includes/config/wdgpt-config-reporting-settings.php:138
+msgid ""
+"Please enter the mail from which the reports are sent. It is set by default "
+"as the administrator mail, but please use a valid mail from your domain."
+msgstr ""
+"Voer de e-mail in van waaruit de rapporten worden verzonden. Deze is "
+"standaard ingesteld als de beheerdersmail, maar gebruik een geldige mail van "
+"uw domein."
+
+#: includes/config/wdgpt-config-reporting-settings.php:147
+msgid "Mails to send the reports to:"
+msgstr "Mails om de rapporten naartoe te sturen:"
+
+#: includes/config/wdgpt-config-reporting-settings.php:157
+msgid "The emails are not valid. Please enter valid emails."
+msgstr "De e-mails zijn ongeldig. Voer geldige e-mails in."
+
+#: includes/config/wdgpt-config-reporting-settings.php:165
+msgid ""
+"Please enter the mails to send the reports to. You can enter multiple mails "
+"separated by a comma."
+msgstr ""
+"Voer de e-mailadressen in waarnaar de rapporten moeten worden verzonden. U "
+"kunt meerdere mails invoeren, gescheiden door een komma."
+
+#: includes/config/wdgpt-config-reporting-settings.php:176
+msgid "Schedule of sending the reports:"
+msgstr "Schema voor het verzenden van de rapporten:"
+
+#: includes/config/wdgpt-config-reporting-settings.php:186
+msgid "Daily"
+msgstr "Dagelijks"
+
+#: includes/config/wdgpt-config-reporting-settings.php:194
+msgid "Weekly"
+msgstr "Wekelijks"
+
+#: includes/config/wdgpt-config-reporting-settings.php:204
+msgid "Please select the schedule of sending the reports."
+msgstr "Selecteer het schema voor het verzenden van de rapporten."
+
+#: includes/config/wdgpt-config-reporting-settings.php:219
+msgid "Cron schedule:"
+msgstr "Cron schema:"
+
+#: includes/config/wdgpt-config-reporting-settings.php:228
+msgid "The cron schedule is: "
+msgstr "Het cronschema is: "
+
+#: includes/config/wdgpt-config-reporting-settings.php:247
+msgid ""
+"If you deactivate the plugin, the reporting will be put on hold, but will "
+"resume when you activate it again."
+msgstr ""
+"Als u de plugin deactiveert, wordt de rapportage in de wacht gezet, maar "
+"deze wordt hervat als u de plugin weer activeert."
+
+#: includes/crons/wdgpt-cron-jobs.php:99
+msgid "SmartSearchWP Chat Logs Report - "
+msgstr "SmartSearchWP Chatlogs Rapport - "
+
+#: includes/crons/wdgpt-cron-jobs.php:113
+#: includes/logs/class-wdgpt-logs-table.php:167
+msgid "User"
+msgstr "Gebruiker"
+
+#: includes/crons/wdgpt-cron-jobs.php:113
+#: includes/logs/class-wdgpt-logs-table.php:167
+msgid "Bot"
+msgstr "Robot"
+
+#: includes/crons/wdgpt-cron-jobs.php:154
+msgid "SmartsearchWP chat logs report"
+msgstr "SmartsearchWP chatlogs rapport"
+
+#: includes/crons/wdgpt-cron-jobs.php:156
+msgid "Please find attached the report of the chat logs from SmartsearchWP."
+msgstr "In de bijlage vindt u het verslag van de chatlogs van SmartsearchWP."
+
+#: includes/logs/class-wdgpt-error-logs-table.php:40
+#: includes/logs/class-wdgpt-logs-table.php:47
+msgid "log"
+msgstr "log"
+
+#: includes/logs/class-wdgpt-error-logs-table.php:41
+#: includes/logs/class-wdgpt-logs-table.php:48
+msgid "logs"
+msgstr "logs"
+
+#: includes/logs/class-wdgpt-error-logs-table.php:61
+msgid "Error"
+msgstr "Fout"
+
+#: includes/logs/class-wdgpt-error-logs-table.php:62
+msgid "Error Type"
+msgstr "Type Fout"
+
+#: includes/logs/class-wdgpt-error-logs-table.php:63
+msgid "Error Code"
+msgstr "Foutcode"
+
+#: includes/logs/class-wdgpt-error-logs-table.php:64
+msgid "Question"
+msgstr "Vraag"
+
+#: includes/logs/class-wdgpt-error-logs-table.php:65
+#: includes/logs/class-wdgpt-logs-table.php:195
+msgid "Created At"
+msgstr "Aaanmaakdatum"
+
+#: includes/logs/class-wdgpt-error-logs-table.php:76
+#: includes/logs/class-wdgpt-logs-table.php:208
+#: includes/summaries/class-wdgpt-summaries-table.php:388
+msgid "ID"
+msgstr "ID"
+
+#: includes/logs/class-wdgpt-error-logs-table.php:105
+#: includes/logs/class-wdgpt-logs-table.php:243
+msgid "Purge Logs"
+msgstr "Logboeken Wissen"
+
+#: includes/logs/class-wdgpt-error-logs-table.php:107
+#: includes/logs/class-wdgpt-logs-table.php:237
+msgid "1 Month"
+msgstr "1 Maand"
+
+#: includes/logs/class-wdgpt-error-logs-table.php:108
+#: includes/logs/class-wdgpt-logs-table.php:238
+msgid "3 Months"
+msgstr "3 Maanden"
+
+#: includes/logs/class-wdgpt-error-logs-table.php:109
+#: includes/logs/class-wdgpt-logs-table.php:239
+msgid "6 Months"
+msgstr "6 Maanden"
+
+#: includes/logs/class-wdgpt-error-logs-table.php:110
+#: includes/logs/class-wdgpt-logs-table.php:240
+msgid "12 Months"
+msgstr "12 Maanden"
+
+#: includes/logs/class-wdgpt-error-logs-table.php:111
+#: includes/logs/class-wdgpt-logs-table.php:241
+msgid "Forever"
+msgstr "Altijd"
+
+#: includes/logs/class-wdgpt-logs-table.php:73
+msgid "View entire conversation"
+msgstr "Bekijk hele gesprek"
+
+#: includes/logs/class-wdgpt-logs-table.php:192
+msgid "Latest Question"
+msgstr "Laatste vraag"
+
+#: includes/logs/class-wdgpt-logs-table.php:193
+msgid "Answer"
+msgstr "Antwoord"
+
+#: includes/logs/class-wdgpt-logs-table.php:194
+msgid "Context used"
+msgstr "Gebruikte context"
+
+#: includes/logs/wdgpt-config-error-logs.php:32
+#: includes/logs/wdgpt-config-logs.php:32
+msgid "Deleted all logs."
+msgstr "Alle logbestanden verwijderd."
+
+#: includes/logs/wdgpt-config-logs.php:36
+#, php-format
+msgid "Deleted logs older than %d months."
+msgstr "Logs ouder dan %d maanden verjiderd."
+
+#: includes/summaries/class-wdgpt-summaries-table.php:38
+msgid "summary"
+msgstr "samenvatting"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:39
+msgid "summaries"
+msgstr "samenvattingen"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:65
+msgid "Generate Embeddings"
+msgstr "AI trainen"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:93
+msgid ""
+"This summary has no content. Please add some content to it before generating "
+"embeddings."
+msgstr ""
+"Deze samenvatting heeft geen inhoud. Voeg er inhoud aan toe voordat je "
+"embeddings genereert."
+
+#: includes/summaries/class-wdgpt-summaries-table.php:248
+#: includes/summaries/class-wdgpt-summaries-table.php:295
+msgid "All"
+msgstr "Alle"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:266
+msgid "Search"
+msgstr "Zoek op"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:296
+#: includes/summaries/class-wdgpt-summaries-table.php:375
+msgid "Active"
+msgstr "Oorsprong"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:297
+msgid "Inactive"
+msgstr "Inactief"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:298
+#: includes/summaries/class-wdgpt-summaries-table.php:373
+msgid "Embeddings"
+msgstr "Inbeddingen"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:299
+msgid "No Embeddings"
+msgstr "Geen inbeddingen"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:300
+msgid "Up to date"
+msgstr "Up-to-date"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:301
+msgid "Not up to date"
+msgstr "Niet up-to-date"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:332
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:359
+msgid ""
+"Embeddings are used to find the most similar posts/pages to the user query. "
+"Embeddings are generated automatically when a post/page is saved. If you "
+"want to regenerate the embeddings for a post/page, click on the \"Generate "
+"Embeddings\" link."
+msgstr ""
+"Inbeddingen worden gebruikt om de berichten/pagina's te vinden die het meest "
+"lijken op de zoekopdracht van de gebruiker. Als je de inbeddingen voor een "
+"bericht/pagina opnieuw wilt genereren, klik je op de link \"Inbeddingen "
+"genereren\"."
+
+#: includes/summaries/class-wdgpt-summaries-table.php:362
+msgid "Title"
+msgstr "Titel"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:366
+msgid "Language"
+msgstr "Taal"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:372
+msgid "Last Post Modification"
+msgstr "Laatste inhoudswijziging"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:374
+msgid "Last Embeddings Generation"
+msgstr "Laatste inbeddingsgeneratie"
+
+#: includes/summaries/class-wdgpt-summaries-table.php:389
+msgid "Content"
+msgstr "Inhoud"
+
+#: includes/summaries/wdgpt-config-summary.php:24
+msgid ""
+"Your OpenAI API key is invalid. Please set a valid API key in the settings "
+"page."
+msgstr ""
+"Uw OpenAI API-sleutel is ongeldig. Stel alstublieft een geldige API-sleutel "
+"in op de instellingenpagina."
+
+#: includes/summaries/wdgpt-config-summary.php:27
+#: includes/summaries/wdgpt-config-summary.php:31
+msgid "Please set your OpenAI API key in the settings page."
+msgstr "Stel je OpenAI API-sleutel in op de instellingenpagina."
+
+#: includes/summaries/wdgpt-config-summary.php:44
+msgid ""
+"You have an insufficient quota linked to your api key. Please update your "
+"plan on the OpenAI website if you want to generate embeddings."
+msgstr ""
+"U heeft een ontoereikend quotum gekoppeld aan uw API-sleutel. Update "
+"alstublieft uw plan op de OpenAI-website als u insluitingen wilt genereren."
+
+#: includes/summaries/wdgpt-config-summary.php:49
+msgid "OpenAI Generated Summaries"
+msgstr "Samenvattingen gegenereerd door OpenAI"
+
+#: includes/summaries/wdgpt-config-summary.php:59
+msgid ""
+"The row is currently active and its embeddings is up to date with the post."
+msgstr ""
+"De rij is momenteel actief en de embeddings zijn bijgewerkt met het bericht."
+
+#: includes/summaries/wdgpt-config-summary.php:63
+msgid ""
+"The row is currently active but its embeddings are not up to date with the "
+"post."
+msgstr ""
+"De rij is momenteel actief, maar de insluitingen zijn niet bijgewerkt met "
+"het bericht."
+
+#: includes/wdgpt-api-requests.php:160
+msgid "Database updated successfully."
+msgstr "Database succesvol bijgewerkt."
+
+#: includes/wdgpt-api-requests.php:191
+msgid ""
+"Currently, there appears to be an issue. Please try asking me again later."
+msgstr "Momenteel lijkt er een probleem te zijn. Probeer het later nog eens."
+
+#: includes/wdgpt-api-requests.php:251
+msgid "There is currently an error with the chatbot. Please try again later."
+msgstr "Er is momenteel een fout met de chatbot. Probeer het later nog eens."
+
+#: includes/wdgpt-client.php:146
+msgid "Tapez votre message ici..."
+msgstr "Type hier uw bericht…"
+
+#: includes/wdgpt-client.php:150
+msgid ""
+"Powered by artificial intelligence, the bot can make mistakes. Consider "
+"checking important information."
+msgstr ""
+"Aangedreven door kunstmatige intelligentie kan de bot fouten maken. Overweeg "
+"om belangrijke informatie te controleren."
+
+#: includes/wdgpt-config.php:40
+msgid "The OpenAI API currently has issues. Please try again later."
+msgstr "De OpenAI API heeft momenteel problemen. Probeer het later nog eens."
+
+#: includes/wdgpt-config.php:49
+msgid ""
+"Your api key is invalid! If you think this is a mistake, please check your "
+"account on the OpenAI platform."
+msgstr ""
+"Uw API-sleutel is ongeldig! Als u denkt dat dit een fout is, controleer dan "
+"uw account op het OpenAI-platform."
+
+#: includes/wdgpt-config.php:56
+msgid ""
+"Your api key is invalid! If you think this is a mistake, please check your "
+"settings on the OpenAI platform."
+msgstr ""
+"Uw API-sleutel is ongeldig! Als u denkt dat dit een vergissing is, "
+"controleer dan alstublieft uw instellingen op het OpenAI-platform."
+
+#: includes/wdgpt-config.php:61
+msgid "Your api key is valid!"
+msgstr "Uw API-sleutel is geldig!"
+
+#: includes/wdgpt-config.php:102
+msgid ""
+"If you like this plugin, please leave us a review to help us grow. Thank you!"
+msgstr ""
+"Als u deze plugin leuk vindt, laat dan een beoordeling achter om ons te "
+"helpen groeien. Bedankt!"
+
+#: includes/wdgpt-config.php:111
+msgid "Leave a review"
+msgstr "Laat een beoordeling achter"
+
+#: includes/wdgpt-config.php:119
+msgid "No, thanks"
+msgstr "Nee, bedankt"
+
+#: includes/wdgpt-config.php:127
+msgid "Already rated"
+msgstr "Reeds beoordeeld"
+
+#: includes/wdgpt-config.php:135
+msgid "Remind me later"
+msgstr "Herinner me later"
+
+#: includes/wdgpt-config.php:161
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: includes/wdgpt-config.php:162
+msgid "Reporting"
+msgstr "Rapportage"
+
+#: includes/wdgpt-config.php:169
+msgid "Database Update"
+msgstr "Update database"
+
+#: wdgpt.php:68
+msgid ""
+"The plugin SmartSearchWP needs to update the database. Please click on the "
+"link below to go the plugin settings and update the database."
+msgstr ""
+"De plugin SmartSearchWP moet de database bijwerken. Klik op de onderstaande "
+"link om naar de plugin-instellingen te gaan en de database bij te werken."
+
+#~ msgid "Posts"
+#~ msgstr "Berichten"
+
+#~ msgid "Pages"
+#~ msgstr "Pagina's"
+
+#~ msgid "Do not show this message again"
+#~ msgstr "Dit bericht niet meer tonen"
+
+#~ msgid ""
+#~ "The maximum number of contexts that the model can use to generate an "
+#~ "answer."
+#~ msgstr ""
+#~ "Het maximale aantal contexten dat het model kan gebruiken om een antwoord "
+#~ "te genereren."
+
+#~ msgid ""
+#~ "The similarity threshold is a value between 0 and 10. The lower the "
+#~ "value, the more similar the contexts need to be to the most probable "
+#~ "context to be considered relevant."
+#~ msgstr ""
+#~ "De similariteitsdrempel is een waarde tussen 0 en 10. Hoe lager de "
+#~ "waarde, hoe meer de contexten moeten lijken op de meest waarschijnlijke "
+#~ "context om als relevant te worden beschouwd."
+
+#~ msgid ""
+#~ "To use the chatgpt-4 model, you must have subscribed to chatgpt plus!"
+#~ msgstr ""
+#~ "Om het gpt-4-model te gebruiken, moet je geabonneerd zijn op ChatGPT Plus!"
+
+#~ msgid ""
+#~ "To determine the answer, the system can utilize a maximum number of "
+#~ "contexts. Increasing this value allows the model to access more data, "
+#~ "potentially improving the quality of the generated answer. However, there "
+#~ "is a trade-off, as a higher value also raises the risk of the model "
+#~ "producing irrelevant answers that are not directly related to the prompt."
+#~ msgstr ""
+#~ "Om het antwoord te bepalen kan het systeem een maximum aantal contexten "
+#~ "gebruiken. Door deze waarde te verhogen kan het model meer gegevens "
+#~ "gebruiken, waardoor de kwaliteit van het gegenereerde antwoord mogelijk "
+#~ "verbetert. Er is echter een afweging, omdat een hogere waarde ook het "
+#~ "risico verhoogt dat het model irrelevante antwoorden produceert die niet "
+#~ "direct gerelateerd zijn aan de prompt."
+
+#~ msgid ""
+#~ "To ensure accurate answers, the system aims for maximum similarity "
+#~ "between the most probable context and alternative contexts when "
+#~ "responding to a prompt. It uses multiple contexts as long as their scores "
+#~ "are sufficiently close to the most likely context. A lower value "
+#~ "minimizes the risk of including false positives, but it also increases "
+#~ "the possibility of insufficient data for generating an answer."
+#~ msgstr ""
+#~ "Om accurate antwoorden te garanderen, streeft het systeem naar een "
+#~ "maximale overeenkomst tussen de meest waarschijnlijke context en "
+#~ "alternatieve contexten bij het beantwoorden van een vraag.Het gebruikt "
+#~ "meerdere contexten zolang hun scores voldoende dicht bij de meest "
+#~ "waarschijnlijke context liggen.Een lagere waarde minimaliseert het risico "
+#~ "op het opnemen van fout-positieven, maar verhoogt ook de kans op "
+#~ "onvoldoende gegevens voor het genereren van een antwoord."
+
+#~ msgid "Please select the next report date."
+#~ msgstr "Selecteer de volgende rapportdatum."
+
+#~ msgid "NotUnderstood"
+#~ msgstr "Sorry, ik begreep je vraag niet. Kunt u het anders formuleren?"
+
+#~ msgid "NotEnoughCharacters"
+#~ msgstr ""
+#~ "Sorry, je vraag is niet duidelijk genoeg. Kun je hem anders formuleren?"
+
+#~ msgid ""
+#~ "The chatbot is not configured correctly. Please contact the administrator."
+#~ msgstr ""
+#~ "De chatbot is niet correct geconfigureerd. Neem contact op met de "
+#~ "beheerder."
+
+#~ msgid "Quick Edit"
+#~ msgstr "Editie"
+
+#~ msgid "Reset"
+#~ msgstr "Reset"
+
+#~ msgid "Keywords"
+#~ msgstr "Trefwoorden"
+
+#~ msgid "Entities"
+#~ msgstr "Entiteiten"
+
+#~ msgid "Categories"
+#~ msgstr "Categorieën"
+
+#~ msgid "Sources"
+#~ msgstr "Bronnen"
+
+#~ msgid "Post type:"
+#~ msgstr "Type inhoud:"
+
+#~ msgid "Select posts to use for the chatbot:"
+#~ msgstr "Selecteer berichten om te gebruiken voor de chatbot:"
+
+#~ msgid "a dit"
+#~ msgstr "zei"
